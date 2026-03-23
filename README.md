@@ -131,5 +131,5 @@ To back up a memory card, simply copy the related `.ps2` file to another folder,
 | The Simpsons Hit and Run | everything unlocked | 100% complete | sks5_32mb_formatted_memcard.ps2 |
 |  |  |  |  |
 | Mortal Kombat Armageddon | MKA needs an original 8MB Memcard! | 100% complete | sks2_8mb_formatted_memcard.ps2 |
-| EMPTY 64 MB Memcard! | many games wont accept 64mb memcards  | NO SVAES | sks4_64mb_formatted_memcard.ps2 |
+| EMPTY 64 MB Memcard! | many games wont accept 64mb memcards!  | NO SAVES | sks4_64mb_formatted_memcard.ps2 |
 |  |  |  |  |
