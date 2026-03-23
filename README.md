@@ -60,6 +60,6 @@ To back up a memory card, simply copy the related `.ps2` file to another folder,
 
 | Game Title | Savegame Name | Progress / Status | Memory Card File (.ps2) |
 |---|---|---|---|
-| Final Fantasy X | Main Story Save | 12h / Luca | Main-Slot1.ps2 |
-| Example: Gran Turismo 4 | Career Save | 28% complete | Racing-Collection.ps2 |
+| Need for Speed ProStreet | Main Story Save | 2h | max tuned Cars, Unlocked Kings | sks5_32mb_formatted_memcard.ps2 |
+| Need for Speed Most Wanted | Career Save | 20% complete | Racing-Collection.ps2 |
 |  |  |  |  |
