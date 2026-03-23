@@ -4,6 +4,7 @@ EU based PCSX2 .ps2 virtual Memcard Collection with EU based Savegames
 ## Overview
 PCSX2 uses virtual PlayStation 2 memory cards stored as `.ps2` files.  
 These files behave like original PS2 memory cards and store game save data, system configuration, and profile-related data.
+NOTE! MAIN MEMCARD IS: `sks5_32mb_formatted_memcard.ps2`
 
 ## What `.ps2` Memory Cards Are
 - Virtual PS2 memory cards used by PCSX2
