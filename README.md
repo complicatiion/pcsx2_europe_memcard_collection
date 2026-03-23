@@ -56,17 +56,10 @@ To back up a memory card, simply copy the related `.ps2` file to another folder,
 
 ---
 
-# Savegame Tracker
+# Complete List - 23-03-2026: (Note List is uncomplete)
 
 | Game Title | Savegame Name | Progress / Status | Memory Card File (.ps2) |
 |---|---|---|---|
-| Example: Final Fantasy X | Main Story Save | 12h / Luca | Main-Slot1.ps2 |
+| Final Fantasy X | Main Story Save | 12h / Luca | Main-Slot1.ps2 |
 | Example: Gran Turismo 4 | Career Save | 28% complete | Racing-Collection.ps2 |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
 |  |  |  |  |
