@@ -125,7 +125,9 @@ To back up a memory card, simply copy the related `.ps2` file to another folder,
 | Iron Man The Game | everything unlocked | 100% complete | sks5_32mb_formatted_memcard.ps2 |
 | Cars Race O Rama | everything unlocked | 100% complete | sks5_32mb_formatted_memcard.ps2 |
 | Fifa 14 | everything unlocked | 100% complete | sks5_32mb_formatted_memcard.ps2 |
-| PEs 2014 | new game save | 1% complete | sks5_32mb_formatted_memcard.ps2 |
+| PES 2014 | new game save | 1% complete | sks5_32mb_formatted_memcard.ps2 |
 | The Simpsons Hit and Run | everything unlocked | 100% complete | sks5_32mb_formatted_memcard.ps2 |
 |  |  |  |  |
+| Mortal Kombat Armageddon | MKA needs an original 8MB Memcard! | 100% complete | sks2_8mb_formatted_memcard.ps2 |
+| EMPTY 64 MB Memcard! | many games wont accept 64mb memcards  | NO SVAES | sks4_64mb_formatted_memcard.ps2 |
 |  |  |  |  |
