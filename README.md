@@ -63,5 +63,11 @@ To back up a memory card, simply copy the related `.ps2` file to another folder,
 | Need for Speed ProStreet | max tuned cars, unlocked kings | 2h | sks5_32mb_formatted_memcard.ps2 |
 | Need for Speed Most Wanted | max money, tuned cars, 3 drivers beated | 20% complete | sks5_32mb_formatted_memcard.ps |
 | Need for Speed Most Wanted | max money, tuned cars, 3 drivers beated | 20% complete | sks5_32mb_formatted_memcard.ps |
-| Need for Speed Most Wanted | max money, tuned cars, 3 drivers beated | 20% complete | sks5_32mb_formatted_memcard.ps |
+| Need for Speed Underground 2 | max money, tuned 20sx starter car, new game + save | 2% complete | sks5_32mb_formatted_memcard.ps |
+| Need for Speed Underground | mone + tuned Lancer | 100% complete | sks5_32mb_formatted_memcard.ps |
+| SOCOM 3 US Navy Seals | everything unlocked | 100% complete | sks5_32mb_formatted_memcard.ps |
+| Tribes Aerial Assault | new game save | 2% complete | sks5_32mb_formatted_memcard.ps |
+| Test Drive (first Title) | everything unlocked | 100% complete | sks5_32mb_formatted_memcard.ps |
+| Test Drive Unlimited) | everything unlocked | 100% complete | sks5_32mb_formatted_memcard.ps |
+| Test Drive (first Title) | everything unlocked | 100% complete | sks5_32mb_formatted_memcard.ps |
 |  |  |  |  |
