@@ -1,5 +1,6 @@
 # pcsx2_europe_memcard_collection
 EU based PCSX2 .ps2 virtual Memcard Collection with EU based Savegames
+.ps2 virtual memcards in pcsx2_europe_memcard_collection.zip
 
 ## Overview
 PCSX2 uses virtual PlayStation 2 memory cards stored as `.ps2` files.  
