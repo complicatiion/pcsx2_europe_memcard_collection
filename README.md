@@ -58,8 +58,10 @@ To back up a memory card, simply copy the related `.ps2` file to another folder,
 
 # Complete List - 23-03-2026: (Note List is uncomplete)
 
-| Game Title | Savegame Name | Progress / Status | Memory Card File (.ps2) |
+| Game Title | Info | Progress / Status | Memory Card File (.ps2) |
 |---|---|---|---|
-| Need for Speed ProStreet | Main Story Save | 2h | max tuned Cars, Unlocked Kings | sks5_32mb_formatted_memcard.ps2 |
-| Need for Speed Most Wanted | Career Save | 20% complete | Racing-Collection.ps2 |
+| Need for Speed ProStreet | max tuned cars, unlocked kings | 2h | sks5_32mb_formatted_memcard.ps2 |
+| Need for Speed Most Wanted | max money, tuned cars, 3 drivers beated | 20% complete | sks5_32mb_formatted_memcard.ps |
+| Need for Speed Most Wanted | max money, tuned cars, 3 drivers beated | 20% complete | sks5_32mb_formatted_memcard.ps |
+| Need for Speed Most Wanted | max money, tuned cars, 3 drivers beated | 20% complete | sks5_32mb_formatted_memcard.ps |
 |  |  |  |  |
